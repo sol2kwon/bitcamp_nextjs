@@ -5,7 +5,7 @@ const AppLayout = () => {
     <>
       <Link href="/">
         <a>
-          <h2>to A</h2>
+          <h2>to Counter</h2>
         </a>
       </Link>
       <Link href="/calc">
@@ -13,9 +13,9 @@ const AppLayout = () => {
           <h2>to Calc</h2>
         </a>
       </Link>
-      <Link href="/grade">
+      <Link href="/bmi">
         <a>
-          <h2>to grade</h2>
+          <h2>to BMI</h2>
         </a>
       </Link>
     </>
